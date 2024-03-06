@@ -1,1 +1,5 @@
 # Panda
+
+#Instalação 
+
+git clone 
